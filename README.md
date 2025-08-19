@@ -5,7 +5,7 @@ lidarSubscriber.py - first Python code I wrote for the lidar, it was my first ti
 
 csvcreator.py - takes the data from the lidar and stores it in a csv file(Obsolete, replaced by lidarRunner 1-3)
 
-lidarRunner1-3: Incorporates starting the lidar and managing lifestyle command,s and different methods of data collection, from ordering data based on time on 1 and 2, to adding data one 'spin' at a time and auto-deleting the oldest data on 3
+lidarRunner1-3 - Incorporates starting the lidar and managing lifestyle command,s and different methods of data collection, from ordering data based on time on 1 and 2, to adding data one 'spin' at a time and auto-deleting the oldest data on 3
 
 lidar_watcher.py - examines the csv file and displays a message on the command prompt when the distance measured in a specific angle decreases below a specific threshold set in the code
 
