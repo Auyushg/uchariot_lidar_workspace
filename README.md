@@ -10,3 +10,6 @@ lidarRunner1-3 - Incorporates starting the lidar and managing lifestyle command,
 lidar_watcher.py - examines the csv file and displays a message on the command prompt when the distance measured in a specific angle decreases below a specific threshold set in the code
 
 "Setting Up The Lidar Development Workspace For Windows" - A File that I and other developers created to guide interns in creating and using a proper computer environment for LiDAR developemnt
+
+
+I worked with a team on the development of the Microchariot robot; however, these specific programs were solo-developed
